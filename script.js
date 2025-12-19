@@ -2,7 +2,7 @@
 // IMPORTANT: Replace with your actual credentials from INSTRUCTIONS.md
 const API_KEY = 'YOUR_API_KEY';
 const CLIENT_ID = 'YOUR_CLIENT_ID';
-const SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID';
+const SPREADSHEET_ID = '1y1YbK9KVxnr2YEKdDTdrVFFhySxhDtUv2DJtwnzSkvA';
 
 // --- GOOGLE API & AUTHENTICATION ---
 const DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
