@@ -1,6 +1,6 @@
 // --- CONFIGURATION ---
 // IMPORTANT: Replace with your actual credentials from INSTRUCTIONS.md
-const API_KEY = 'YOUR_API_KEY';
+const API_KEY = 'AIzaSyBay-VSp11X2OHQPP4UWWVuni1Nn2GxF6I';
 const CLIENT_ID = 'YOUR_CLIENT_ID';
 const SPREADSHEET_ID = '1y1YbK9KVxnr2YEKdDTdrVFFhySxhDtUv2DJtwnzSkvA';
 
