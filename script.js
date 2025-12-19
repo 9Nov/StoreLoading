@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 // IMPORTANT: Replace with your actual credentials from INSTRUCTIONS.md
 const API_KEY = 'AIzaSyBay-VSp11X2OHQPP4UWWVuni1Nn2GxF6I';
-const CLIENT_ID = 'YOUR_CLIENT_ID';
+const CLIENT_ID = '869867241844-egj390vuocia4i2s2crdkjhp5efeecl4.apps.googleusercontent.com';
 const SPREADSHEET_ID = '1y1YbK9KVxnr2YEKdDTdrVFFhySxhDtUv2DJtwnzSkvA';
 
 // --- GOOGLE API & AUTHENTICATION ---
