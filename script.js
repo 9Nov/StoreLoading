@@ -1,4 +1,4 @@
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwLMYtmymTERJuYAIG4eoGyjRxoTf1nIuxAe1QIX5ywLYIu_wF81Kqvd81reMbD2aXIHA/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwnIo6BffmELCvHrpoviXFM8nj8ej96Rjbyjw7aECgOMpgfNPe6BKWB1g9BLRQXiTNb/exec";
 // ⚠️ ข้อควรระวัง: URL ด้านบนดูเหมือน Library URL ผิดรูปแบบ!
 // URL ที่ถูกต้องมักจะขึ้นต้นด้วย https://script.google.com/macros/s/..../exec
 // แต่ผมจะให้โค้ดทำงานต่อไป เผื่อว่ามันถูกต้องแล้ว
@@ -324,3 +324,4 @@ function showLoading(show) {
     if (show) el.classList.remove('hidden');
     else el.classList.add('hidden');
 }
+
